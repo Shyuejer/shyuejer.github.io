@@ -1288,7 +1288,11 @@ a.nav-item.nav-link {
 	width: 100%;
 	height: 100%;
 	background: #111111;
-	opacity: .85;
+	opacity: .50;
+}
+
+.main-pic{
+	max-height:	1rem;
 }
 
 .intro-content {
@@ -1865,6 +1869,8 @@ a.nav-item.nav-link {
 	-ms-transform: scale(1.05);
 	transform: scale(1.05);
 }
+
+
 
 /**
  * responsive:
