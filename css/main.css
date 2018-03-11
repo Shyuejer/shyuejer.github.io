@@ -1870,7 +1870,10 @@ a.nav-item.nav-link {
 	transform: scale(1.05);
 }
 
-
+#portfolio .carousel .carousel-inner img{
+	height:auto;
+	width:300px;
+}
 
 /**
  * responsive:
